@@ -13,6 +13,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
+<<<<<<< HEAD
   },
   "browserslist": {
     "production": [
@@ -27,3 +28,7 @@
     ]
   }
 }
+=======
+  }
+}
+>>>>>>> 605331978d25848674db0999d48caa84633657d0
